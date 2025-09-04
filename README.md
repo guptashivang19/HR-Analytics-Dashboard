@@ -82,18 +82,6 @@ Long-term employees (10+ years) show relatively lower attrition.
 Highest attrition observed in Laboratory Technicians (62) and Sales Executives (57).
 Research Scientists (47) and Sales Representatives (33) also face high turnover.
 
-📈 Dashboard Highlights And Preview :
+📈 Dashboard Preview :
 
 <img width="976" height="579" alt="HRDashboard" src="https://github.com/user-attachments/assets/deeb24f3-1a27-4969-9a79-a1db980f9917" />
-
-The interactive Power BI dashboard includes:
-
-KPI Cards: Employees count, attrition, attrition rate, avg age, avg salary, avg tenure.
-
-Pie Charts: Attrition by education.
-
-Bar Charts: Attrition by age group, salary range, job role.
-
-Line Charts: Attrition by years at company.
-
-Tables: Department-wise attrition breakdown by job role.
